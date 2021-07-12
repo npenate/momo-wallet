@@ -21,7 +21,7 @@
                 <order_status>processing</order_status>
                 <title>Momo</title>
                 <allowspecific>1</allowspecific>
-                <specificcountry>VN</specificcountry>
+<!--                <specificcountry>MX</specificcountry>-->
                 <merchant_name>Momo Partner</merchant_name>
                 <credit_memo_prefix>MEMO-</credit_memo_prefix>
                 <payment_action>authorize_capture</payment_action>
