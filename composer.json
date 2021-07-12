@@ -16,5 +16,10 @@
         "psr-4": {
             "Boolfly\\MomoWallet\\": ""
         }
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.21"
+        }
     }
 }
